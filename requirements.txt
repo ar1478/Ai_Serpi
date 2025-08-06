@@ -1,7 +1,6 @@
 ccxt
 pandas
 numpy
-MetaTrader5
 pyTelegramBotAPI
 matplotlib
 mplfinance
