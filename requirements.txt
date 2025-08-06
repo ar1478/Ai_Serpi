@@ -1,72 +1,37 @@
-# Core trading and data libraries
 ccxt
 pandas
 numpy
-
-
+MetaTrader5
 pyTelegramBotAPI
-
-# Charting and visualization  
 matplotlib
 mplfinance
-
-# HTTP requests and APIs
 requests
 aiohttp
-
-# Data handling
 python-dotenv
 configparser
-
-# Async support
 asyncpg
-
-# Utilities
 python-dateutil
 pytz
 schedule
-
-# Logging and montoring
 colorlog
-
-# Math and statistics
 scipy
 scikit-learn
-
-# Web scraping
 beautifulsoup4
-
-# Performance optimization
 numba
 cython
-
-# Development and testing
 pytest
 pytest-asyncio
-
-# Security
 cryptography
 python-jose
-
-# Configuration management
 pydantic
 pydantic-settings
-# Memory optimization
 psutil
-
-# Additional exchange connectors
 python-binance
 bybit
-
-# Market data
 yfinance
 fredapi
 newsapi-python
-
-# Advanced charting
 plotly
 dash
-
-# Database alternatives
 pymongo
 redis
